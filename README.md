@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TSH34
-- 👀 I’m interested in IOS Develpment, Game Develpment.
+- 👋 Hi, 
+- 👀 I’m interested in Swift, C#, game development.
 - 🌱 I’m currently learning Unity 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
